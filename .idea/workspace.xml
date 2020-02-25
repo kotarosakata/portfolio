@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c2987ba-e4e4-4d39-aa84-6f2af9a90d74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y93v7pXhMGSXK1H8ThxK5LiRFB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1" />
+      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\themes\default\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\Shooting1" />
+      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\HTML" />
+      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\CSS" />
+      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\JS" />
+      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\themes\default\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c2987ba-e4e4-4d39-aa84-6f2af9a90d74" name="Default Changelist" comment="" />
+      <created>1582341210899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582341210899</updated>
+      <workItem from="1582341212097" duration="1797000" />
+      <workItem from="1582360851887" duration="3981000" />
+      <workItem from="1582372121530" duration="6335000" />
+      <workItem from="1582435628121" duration="246000" />
+      <workItem from="1582459393687" duration="4427000" />
+      <workItem from="1582604859695" duration="13000" />
+      <workItem from="1582604879872" duration="100000" />
+      <workItem from="1582605915164" duration="2467000" />
+      <workItem from="1582611128977" duration="126000" />
+      <workItem from="1582611332840" duration="1699000" />
+      <workItem from="1582616924640" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1197" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582374858330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1197" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582374858330" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1582361113087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582361113087" />
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="../CSS/semantic.min.css">
+    <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+    <script src="../JS/jquery-3.4.1.min.js"></script>
+    <script src="../JS/main.js"></script>
+    <meta charset="UTF-8">
+    <title>Kotaro Portfolio site</title>
+</head>
+<body>
+<script src="../JS/semantic.min.js"></script>
+<div class="ui inverted large  fixed fluid menu column">
+<a class="header item" onclick="location.href='./page.html'">Kotaro Portfolio site</a>
+</div>
+<div class="ui equal width center aligned padded grid">
+    <div class="ui center aligned" id="Wow" style="margin-top: 7em">
+        <button class="ui primary button">Wow</button>
+    </div>
+</div>
+<div class="ui top attached tabular menu">
+    <a class="active item" data-tab="first">First</a>
+    <a class="item" data-tab="second">Second</a>
+    <a class="item" data-tab="third">Third</a>
+</div>
+
+<div class="ui bottom attached active tab segment" data-tab="first">
+    <button class="ui red button" onclick="location.href='../Shooting1/index.html'">Play</button>
+</div>
+<div class="ui bottom attached tab segment" data-tab="second">
+    <h2 class = "ui icon header">
+        <i class="red android icon"></i>
+        <div class="content">
+            You're　crazy.
+        </div>
+    </h2>
+</div>
+<div class="ui bottom attached tab segment" data-tab="third">
+    Third
+</div>
+<div class="ui basic modal">
+    <div class="ui equal width center aligned padded grid">
+        <p class="ModalLetter">Great!</p>
+    </div>
+</div>
+<script>
+    $('.item').tab();
+        $('#Wow').click(function () {
+            $('.ui.basic.modal').modal('show');
+        })
+
+</script>
+</body>
+</html>
