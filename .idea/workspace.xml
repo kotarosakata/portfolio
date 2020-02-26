@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c2987ba-e4e4-4d39-aa84-6f2af9a90d74" name="Default Changelist" comment="">
+    <list default="true" id="1c2987ba-e4e4-4d39-aa84-6f2af9a90d74" name="Default Changelist" comment="index.html Changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shooting1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shooting1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,17 +87,26 @@
       <workItem from="1582616924640" duration="5000" />
       <workItem from="1582617127012" duration="16000" />
       <workItem from="1582694851448" duration="70000" />
+      <workItem from="1582695077297" duration="1356000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="index.html Changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html Changed" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1197" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582374858330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1197" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582374858330" />
+    <state x="588" y="114" key="CommitChangelistDialog2" timestamp="1582697637406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="588" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582697637406" />
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1582361113087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
