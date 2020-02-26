@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c2987ba-e4e4-4d39-aa84-6f2af9a90d74" name="Default Changelist" comment="" />
+    <list default="true" id="1c2987ba-e4e4-4d39-aa84-6f2af9a90d74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shooting1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shooting1/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y93v7pXhMGSXK1H8ThxK5LiRFB" />
   <component name="ProjectViewState">
@@ -36,15 +43,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1" />
-      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\themes\default\assets\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\虎太郎\Desktop\portfolio" />
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\Shooting1" />
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\HTML" />
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\CSS" />
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\JS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1" />
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\themes\default\assets\images" />
     </key>
   </component>
@@ -79,6 +86,8 @@
       <workItem from="1582611128977" duration="126000" />
       <workItem from="1582611332840" duration="1699000" />
       <workItem from="1582616924640" duration="5000" />
+      <workItem from="1582617127012" duration="16000" />
+      <workItem from="1582694851448" duration="70000" />
     </task>
     <servers />
   </component>
