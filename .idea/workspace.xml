@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c2987ba-e4e4-4d39-aa84-6f2af9a90d74" name="Default Changelist" comment="index.html Changed">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/22589.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShootingGame.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shooting1/Shooting1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Shooting1/Shooting1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shooting1/TemplateData/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Shooting1/TemplateData/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -44,11 +50,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\虎太郎\Desktop\portfolio\Resources" />
       <recent name="C:\Users\虎太郎\Desktop\portfolio" />
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\Shooting1" />
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\HTML" />
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\CSS" />
-      <recent name="C:\Users\虎太郎\WebstormProjects\untitled1\JS" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\虎太郎\WebstormProjects\untitled1" />
@@ -94,6 +100,9 @@
       <workItem from="1582864260013" duration="630000" />
       <workItem from="1582865291546" duration="1892000" />
       <workItem from="1583034648443" duration="28000" />
+      <workItem from="1583034935017" duration="2211000" />
+      <workItem from="1583049004037" duration="2210000" />
+      <workItem from="1583051884488" duration="2236000" />
     </task>
     <servers />
   </component>

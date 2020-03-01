@@ -8,47 +8,46 @@
     <meta charset="UTF-8">
     <title>Kotaro Portfolio site</title>
 </head>
-<body>
+<body style="background-image: url('Resources/22589.jpg');background-repeat: no-repeat;background-size: contain">
 <script src="JS/semantic.min.js"></script>
 <div class="ui inverted large  fixed fluid menu column">
 <a class="header item" onclick="location.href='./index.html'">Kotaro Portfolio site</a>
 </div>
-<div class="ui equal width center aligned padded grid">
-    <div class="ui center aligned" id="Wow" style="margin-top: 7em">
-        <button class="ui primary button">Wow</button>
-    </div>
-</div>
-<div class="ui top attached tabular menu">
-    <a class="active item" data-tab="first">Game</a>
-    <a class="item" data-tab="second">Rebel</a>
-    <a class="item" data-tab="third">GG</a>
-</div>
 
-<div class="ui bottom attached active tab segment" data-tab="first">
-    <button class="ui red button" onclick="location.href='Shooting1/Shooting1.html'">Play</button>
+<h1 class="ui header dividing" style="margin-left :50px;margin-top: 200px;color: #FFFFFF">AboutMe</h1>
+<div style="font-size: 20px;margin-left: 50px;color: #FFFFFF">
+    <h3>虎太郎</h3>
+    <div class="AboutMe">NITKC 58S,現プログラミングラボ部部長　</div>
+    <div class="AboutMe">普段はUnityでわいわいやっている人です。HTML,CSS,JavaScriptはこのサイトを作るときにかじりました</div>
+    <div class="AboutMe">SFが好きですが、様々なジャンルの本や漫画を読んでいます。特に上田早夕里さんの「華竜の宮」はおすすめです</div>
 </div>
-<div class="ui bottom attached tab segment" data-tab="second">
-    <h2 class = "ui icon header">
-        <i class="red rebel icon"></i>
+<h1 class="ui header dividing" style="margin-left :50px;margin-top: 18em">制作したゲーム</h1>
+    <div class="ui card" style="margin-left: 5em;margin-top: 2em">
+        <a class="image" href="Shooting1/Shooting1.html" target="_blank" rel="noopener noreferrer">
+            <img src="ShootingGame.PNG" width="960" height="605">
+        </a>
         <div class="content">
-            只今製作中のサイトです。今しばらくお待ち下さい。
+            <a class="header" href="#" target="_blank" rel="noopener noreferrer">Shooting1</a>
+            <div class="meta">
+                <a>2020/02</a>
+            </div>
         </div>
-    </h2>
-</div>
-<div class="ui bottom attached tab segment" data-tab="third">
-    GG
-</div>
-<div class="ui basic modal">
-    <div class="ui equal width center aligned padded grid">
-        <p class="ModalLetter">Great!</p>
+    </div>
+<div class="ui equal width center aligned grid" style="margin-top: 100px">
+    <div class="ui horizontal list ">
+        <div class="item">
+            <h3 class="ui icon header github button" onclick="location.href='https://github.com/kotarosakata'">
+                <i class="github icon"></i>
+            </h3>
+        </div>
+        <div class="item">
+            <h3 class="ui icon header twitter button" onclick="location.href='https://twitter.com/kotaro_sakata'">
+                <i class="twitter icon"></i>
+            </h3>
+        </div>
     </div>
 </div>
-<script>
-    $('.item').tab();
-        $('#Wow').click(function () {
-            $('.ui.basic.modal').modal('show');
-        })
-
-</script>
+<div class="ui equal width center aligned grid">
+    <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by starline - www.freepik.com</a></div>
 </body>
 </html>
